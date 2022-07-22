@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing, travelling, geography, fitness, photography and languages.
 - 🌱 I’m currently learning Javascript, CSS, HTML.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me ...
+- 📫 Reach me at jnsherban7@gmail.com.
 
 <!---
 nsherban1/nsherban1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
