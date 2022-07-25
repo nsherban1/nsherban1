@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nsherban1
 - 👀 I’m interested in web developing, travelling, geography, fitness, photography and languages.
-- 🌱 I’m currently learning Javascript, CSS, HTML.
+- 🌱 I’m currently learning about Javascript, CSS, HTML, Bootstrap and React.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me at jnsherban7@gmail.com.
 
