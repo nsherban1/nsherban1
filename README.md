@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying Javascript, CSS, HTML, Python, Bootstrap, React, API's, Databases and more.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me at jnsherban7@gmail.com.
+- Check out my travel blog linked to my main website.
 
 <!---
 nsherban1/nsherban1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
