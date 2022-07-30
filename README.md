@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsherban1
+- 👋 Hi, I’m Nico. nsherban1.
 - 👀 I’m interested in web developing, travelling, geography, languages, fitness, and photography.
 - 🌱 I’m currently studying Javascript, CSS, HTML, Python, Bootstrap, React, API's, Databases and more.
 - 💞️ I’m looking to collaborate on open source projects.
