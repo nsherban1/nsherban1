@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nico. nsherban1.
-- 👀 I’m interested in web developing, travelling, geography, languages, fitness, and photography.
+- 👀 I’m interested in web and software development, data science/ analysis, travelling, geography, languages, fitness, and photography.
 - 🌱 Javascript, CSS, HTML, Python, React.js, Node.js, Express.js, PostgreSQL, MySQL and more.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me at jnsherban7@gmail.com.
